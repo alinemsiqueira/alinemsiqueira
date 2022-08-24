@@ -1,5 +1,6 @@
 <h3>Aline Siqueira 👋🏻️</h3>
-* 
+* Apaixonada por tecnologia, planilhas e jogos.
+* Sempre buscando soluções para facilitar o dia-a-dia.
 
 <!-- Stats and Languages -->
 <div align="center">
